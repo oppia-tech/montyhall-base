@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "/home/mathieuhoude/source/oppia/MontyHall/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/home/mathieuhoude/source/oppia/MontyHall/wwwroot/images/car1.png",
+      "PackagePath": "staticwebassets/images/car1.png"
+    },
+    {
+      "Id": "/home/mathieuhoude/source/oppia/MontyHall/wwwroot/images/car2.png",
+      "PackagePath": "staticwebassets/images/car2.png"
+    },
+    {
+      "Id": "/home/mathieuhoude/source/oppia/MontyHall/wwwroot/images/car3.png",
+      "PackagePath": "staticwebassets/images/car3.png"
+    },
+    {
+      "Id": "/home/mathieuhoude/source/oppia/MontyHall/wwwroot/images/zonk1.png",
+      "PackagePath": "staticwebassets/images/zonk1.png"
+    },
+    {
+      "Id": "/home/mathieuhoude/source/oppia/MontyHall/wwwroot/images/zonk2.png",
+      "PackagePath": "staticwebassets/images/zonk2.png"
+    },
+    {
+      "Id": "/home/mathieuhoude/source/oppia/MontyHall/wwwroot/images/zonk3.png",
+      "PackagePath": "staticwebassets/images/zonk3.png"
+    },
+    {
+      "Id": "/home/mathieuhoude/source/oppia/MontyHall/wwwroot/videos/monty-hall.mp4",
+      "PackagePath": "staticwebassets/videos/monty-hall.mp4"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.MontyHall.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.MontyHall.props",
+      "PackagePath": "build\\MontyHall.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.MontyHall.props",
+      "PackagePath": "buildMultiTargeting\\MontyHall.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.MontyHall.props",
+      "PackagePath": "buildTransitive\\MontyHall.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
